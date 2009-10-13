@@ -8,12 +8,12 @@
 Summary:	Scalar::Defer - Lazy evaluation in Perl
 Summary(pl.UTF-8):	Scalar::Defer - leniwe obliczenia w Perlu
 Name:		perl-Scalar-Defer
-Version:	0.14
+Version:	0.20
 Release:	1
 License:	Mit
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Scalar/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	6fef0daeaabb7271480ccd04f91b56eb
+# Source0-md5:	44e486b8d1a0a32ae65d3a84ec3aaa06
 URL:		http://search.cpan.org/dist/Scalar-Defer/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
