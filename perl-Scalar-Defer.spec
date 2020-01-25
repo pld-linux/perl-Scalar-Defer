@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Scalar
 %define	pnam	Defer
 Summary:	Scalar::Defer - Lazy evaluation in Perl
